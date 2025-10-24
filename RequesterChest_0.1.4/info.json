@@ -1,0 +1,9 @@
+{
+  "name": "RequesterChest",
+  "version": "0.1.4",
+  "title": "Requester Chest",
+  "author": "Khorlane",
+  "description": "Give me Requester Chests!",
+  "factorio_version": "2.0",
+  "dependencies": ["base"]
+}
