@@ -2,6 +2,7 @@
 Version: 0.1.4
 Date: 2025-10-24
   Changes:
+    - Updated Factorio version target to 2.1.
     - Added vanilla requester chest icon.
     - Updated research cost to 100 red, 100 green, and 100 blue science packs.
     - Confirmed compatibility with Factorio 2.0 / Space Age.
